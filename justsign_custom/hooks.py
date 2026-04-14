@@ -1,10 +1,15 @@
-app_name = "justsign_custom"
-app_title = "Justsign Custom Dev"
-app_publisher = "sanprasoftwares@gmail.com"
-app_description = "Justsign Custom Dev"
-app_email = "sanprasoftwares@gmail.com"
+# app_name = "justsign_custom"
+# app_title = "Justsign Custom Dev"
+# app_publisher = "sanprasoftwares@gmail.com"
+# app_description = "Justsign Custom Dev"
+# app_email = "sanprasoftwares@gmail.com"
+# app_license = "mit"
+app_name = "justsigns_custom"
+app_title = "Justsigns Custom"
+app_publisher = "MithTech"
+app_description = "Custom modifications for Justsigns."
+app_email = "manoj@mith.tech"
 app_license = "mit"
-
 # Apps
 # ------------------
 
